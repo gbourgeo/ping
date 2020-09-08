@@ -1,5 +1,7 @@
-Résumé: Ce projet consiste à recoder la commande ping.
+# PING
+Ce projet consiste à recoder la commande ping.
 
+## RESUME
 Ping est le nom d’une commande informatique permettant de tester l’accessibilité
 d’une autre machine à travers un réseau IP. La commande mesure également le temps
 mis pour recevoir une réponse, appelé round-trip time (temps aller-retour).
@@ -9,6 +11,7 @@ sonar puisque leur action est similaire (émission d’un signal qui vient rebon
 cible pour revenir à l’envoyeur).
 Par la suite, David L. Mills a fourni un rétro-acronyme : « Packet InterNet Groper ».
 
+## BEHAVIOUR
 • Vous devez gérer les options -v -h.
 • Vous devez gérer une IPv4 simple (adresse/hostname) comme paramètre du programme.
 • Vous devez gérer le FQDN sans pour autant effectuer la résolution DNS dans le retour du paquet.
